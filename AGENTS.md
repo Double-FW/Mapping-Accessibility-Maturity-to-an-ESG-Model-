@@ -1,7 +1,7 @@
 ---
 title: "Agent guidance for accessibility maturity and ESG alignment, management and measurement"
 version: "1.0.0"
-author: "Double FW Ltd; prepared with AI assistance"
+author: "Double FW Ltd"
 date: "2026-10-16"
 license: "MIT"
 language: "en-GB"
