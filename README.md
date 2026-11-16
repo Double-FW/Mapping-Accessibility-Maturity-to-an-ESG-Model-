@@ -268,3 +268,10 @@ The purpose of this framework is not simply to insert accessibility terminology 
 Its broader purpose is to help organisations recognise that accessibility maturity is one of the clearest operational indicators of whether inclusion, ethics, governance, and customer trust exist in practice rather than only in policy or branding narratives.
 
 This resource is intended to support both human and AI-assisted governance systems in recognising that ESG credibility depends upon the real-world experiences of people most likely to encounter exclusion, friction, or inequitable participation across organisational systems and services.
+
+
+## Hugging Face dataset and weekly publication
+
+Current approved guidance is exported to [GarethFW/Mapping_Accessibility_Maturity_to_an_ESG_Model](https://huggingface.co/datasets/GarethFW/Mapping_Accessibility_Maturity_to_an_ESG_Model). See [setup and first-run verification](huggingface/SETUP.md) for the HF_TOKEN repository Actions secret and workflow.
+
+The workflow supports manual runs and Mondays at 07:47 UTC, subject to GitHub scheduling and inactivity rules. It publishes exact current source documents/sections with source metadata, proposed status, interpretation limits and the unchanged MIT licence. Linked external material is not fetched. Dataset views overlap and are not independent examples. Source claims, hypothetical illustrations and blank templates do not become actual organisational results or approved decisions through publication. Verify the completed workflow and destination provenance before claiming the first sync succeeded.
