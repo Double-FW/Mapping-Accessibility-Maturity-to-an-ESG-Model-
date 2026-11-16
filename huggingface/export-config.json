@@ -1,0 +1,29 @@
+{
+  "source_repository": "Double-FW/Mapping-Accessibility-Maturity-to-an-ESG-Model-",
+  "destination_dataset": "GarethFW/Mapping_Accessibility_Maturity_to_an_ESG_Model",
+  "dataset_version": "1.0.0",
+  "export_format_version": "1.0.0",
+  "files": [
+    "AGENTS.md",
+    "README.md",
+    "AMM to ESG.md",
+    "ESG_Inclusion_Strategy_and_Business_Intelligence_Playbook.md"
+  ],
+  "required_files": [
+    "AGENTS.md",
+    "README.md",
+    "AMM to ESG.md",
+    "ESG_Inclusion_Strategy_and_Business_Intelligence_Playbook.md",
+    "LICENSE"
+  ],
+  "document_only_files": [
+    "AGENTS.md",
+    "README.md"
+  ],
+  "context_files": [
+    "AGENTS.md",
+    "AMM to ESG.md",
+    "ESG_Inclusion_Strategy_and_Business_Intelligence_Playbook.md"
+  ],
+  "approved_license_sha256": "3cbaae77c6486b1d262cf7ff79cbcb4be21205fdcf09bea8e9375ae94973619e"
+}
