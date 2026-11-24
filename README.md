@@ -275,3 +275,11 @@ This resource is intended to support both human and AI-assisted governance syste
 Current approved guidance is exported to [GarethFW/Mapping_Accessibility_Maturity_to_an_ESG_Model](https://huggingface.co/datasets/GarethFW/Mapping_Accessibility_Maturity_to_an_ESG_Model). See [setup and first-run verification](huggingface/SETUP.md) for the HF_TOKEN repository Actions secret and workflow.
 
 The workflow supports manual runs and Mondays at 07:47 UTC, subject to GitHub scheduling and inactivity rules. It publishes exact current source documents/sections with source metadata, proposed status, interpretation limits and the unchanged MIT licence. Linked external material is not fetched. Dataset views overlap and are not independent examples. Source claims, hypothetical illustrations and blank templates do not become actual organisational results or approved decisions through publication. Verify the completed workflow and destination provenance before claiming the first sync succeeded.
+
+## About the author
+
+Gareth Ford Williams is a senior leader in accessibility and inclusive design and co-founder of Double FW Ltd. His work spans accessibility, UX, technical standards, assistive technology and inclusive media. At the BBC, he led accessibility and UX work and chaired standards governance, translating research and policy into practical guidance.
+
+## About Double FW Ltd
+
+Double FW Ltd is a UK accessibility and inclusive design consultancy. It helps organisations build accessibility into strategy, governance, brands, products, content and services. Its public repositories provide practical guidance for people and AI-assisted workflows.
